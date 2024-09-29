@@ -18,15 +18,19 @@ Welcome to the Neo X NFT Marketplace, where creativity meets innovation on the c
 => STUDY RESOURCES FOR INVESTORS
 => Marketing Analytics
 
-#3 deployment :
-=> 
-=>
+#3 ppt :
+=> https://drive.google.com/file/d/1FoXU6CzYDgBwmkdWZ9SFpUrlN0vPKN1F/view?usp=sharing
+
 
 #4 video link :
 =>
 
-#5 deployment link :https://remix.ethereum.org/#lang=en&optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.26+commit.8a97fa7a.js
-=>
+#5 deployment link :
+https://neoxt4scan.ngd.network/tx/0xc3e4881a738d9579a71eae150c37c76ef28e395e098a084ed4b0a2c6724a7716
+https://remix.ethereum.org/#lang=en&optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.26+commit.8a97fa7a.js
+
+
+
 
 #6 contact information :
 Ayush Tiwari , ayushtiwari2195@gmail.com
